@@ -4,6 +4,6 @@
 
 ## Большие данные
 
-[DataLens: анализ и визуализация данных](https://yandex.cloud/ru/training/datalens)
+[DataLens: анализ и визуализация данных. Курс рассчитан на 45 часов](https://yandex.cloud/ru/training/datalens)
 
 ## Оптимизация
