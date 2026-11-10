@@ -18,7 +18,7 @@ Yandex DataLens предоставляется [бесплатно для инд
 
 ### Учебные пособия
 
-[Арьков В.Ю. Цифровая нефть. От больших данных к большим доходам. Учебное пособие] (https://ridero.ru/books/cifrovaya_neft_ot_bolshikh_dannykh_k_bolshim_dokhodam/)
+[Арьков В.Ю. Цифровая нефть. От больших данных к большим доходам. Учебное пособие](https://ridero.ru/books/cifrovaya_neft_ot_bolshikh_dannykh_k_bolshim_dokhodam/)
 
 [Арьков В.Ю. Анализ больших данных. Учебное пособие](https://ridero.ru/books/analiz_bolshikh_dannykh/)
 
