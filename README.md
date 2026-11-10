@@ -6,6 +6,8 @@
 
 ## Большие данные
 
+### Онлайн-курс
+
 [DataLens: анализ и визуализация данных](https://yandex.cloud/ru/training/datalens)
 
 Курс рассчитан на 45 часов.
@@ -13,6 +15,12 @@
 Yandex DataLens предоставляется [бесплатно для индивидуального использования](https://yandex.cloud/ru/docs/datalens/pricing).
 
 Отчетность: свидетельство об окончании.
+
+### Учебные пособия
+
+[Арьков В.Ю. Цифровая нефть. От больших данных к большим доходам. Учебное пособие] (https://ridero.ru/books/cifrovaya_neft_ot_bolshikh_dannykh_k_bolshim_dokhodam/)
+
+[Арьков В.Ю. Анализ больших данных. Учебное пособие](https://ridero.ru/books/analiz_bolshikh_dannykh/)
 
 ## Оптимизация
 
